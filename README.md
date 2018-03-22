@@ -8,4 +8,4 @@ you can also feel fun to pass the time.
 HTML+CSS, Vanilla Javascript
 
 ## Reference on application:
-<>
+<https://biggregory.github.io/Color-game/>
