@@ -70,3 +70,18 @@ button:hover {
   color: white;
   background: steelblue;
 }
+
+/**************************/
+@media (max-width: 580px) {
+  button {
+    letter-spacing: normal;
+  }
+  #message {
+    font-size: 15px;
+    transform: translateX(-5px);
+  }
+  #reset {
+    transform: translateX(-20px);
+  }
+
+}
