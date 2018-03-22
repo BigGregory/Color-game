@@ -72,7 +72,10 @@ button:hover {
 }
 
 /**************************/
-@media (max-width: 580px) {
+@media (max-width: 576px) {
+  #colorDisplay {
+    font-size: 130%;
+  }
   button {
     letter-spacing: normal;
   }
