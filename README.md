@@ -1,7 +1,7 @@
 # Color game
 
 ### Description:
-Guess RGB-color in this game in hard or easy mode. Along with the improvement of нщгк knowledge of rgb-color palette, 
+Guess RGB-color in this game in hard or easy mode. Along with the improvement of your knowledge of rgb-color palette, 
 you can also feel fun to pass the time.
 
 ### Technologies:
